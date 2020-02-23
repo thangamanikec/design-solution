@@ -1,6 +1,6 @@
 # design-solution
 
-Assumptions: 
+Observations: 
 1. The apartment is the Core Entity of this problem Statement
 2. A person acts as a Landlord / Tenant for that Apartment
 3. No need of a Building or Multiple Apartment segregation as a Landlord / Tenant holds One To Many relationship with the apartment
